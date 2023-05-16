@@ -18,3 +18,6 @@ C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.Service\obj\Debug\ne
 C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.Service\obj\Debug\net7.0\project423.Service.dll
 C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.Service\obj\Debug\net7.0\refint\project423.Service.dll
 C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.Service\obj\Debug\net7.0\project423.Service.pdb
+C:\Amar\Debug\Apps\1\913\202305161921\project423\project423.Service\obj\Debug\net7.0\project423.Service.dll
+C:\Amar\Debug\Apps\1\913\202305161921\project423\project423.Service\obj\Debug\net7.0\refint\project423.Service.dll
+C:\Amar\Debug\Apps\1\913\202305161921\project423\project423.Service\obj\Debug\net7.0\project423.Service.pdb

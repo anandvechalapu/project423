@@ -1,0 +1,15 @@
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\bin\Debug\net7.0\project423.DataAccess.deps.json
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\bin\Debug\net7.0\project423.DataAccess.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\bin\Debug\net7.0\project423.DataAccess.pdb
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\bin\Debug\net7.0\project423.DTO.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\bin\Debug\net7.0\project423.DTO.pdb
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\refint\project423.DataAccess.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.pdb
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\ref\project423.DataAccess.dll

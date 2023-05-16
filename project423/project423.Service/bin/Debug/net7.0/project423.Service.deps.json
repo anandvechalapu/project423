@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "project423.Service/1.0.0": {
+        "dependencies": {
+          "project423.DTO": "1.0.0",
+          "project423.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "project423.Service.dll": {}
+        }
+      },
+      "project423.DataAccess/1.0.0": {
+        "dependencies": {
+          "project423.DTO": "1.0.0"
+        },
+        "runtime": {
+          "project423.DataAccess.dll": {}
+        }
+      },
+      "project423.DTO/1.0.0": {
+        "runtime": {
+          "project423.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "project423.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "project423.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "project423.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

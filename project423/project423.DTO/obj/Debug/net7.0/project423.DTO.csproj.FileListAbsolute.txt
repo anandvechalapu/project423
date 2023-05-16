@@ -1,0 +1,12 @@
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\bin\Debug\net7.0\project423.DTO.deps.json
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\bin\Debug\net7.0\project423.DTO.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\bin\Debug\net7.0\project423.DTO.pdb
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\refint\project423.DTO.dll
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.pdb
+C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DTO\obj\Debug\net7.0\ref\project423.DTO.dll

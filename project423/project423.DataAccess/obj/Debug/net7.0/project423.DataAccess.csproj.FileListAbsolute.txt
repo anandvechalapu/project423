@@ -13,3 +13,6 @@ C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug
 C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\refint\project423.DataAccess.dll
 C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.pdb
 C:\Amar\Debug\Apps\1\911\202305163857\project423\project423.DataAccess\obj\Debug\net7.0\ref\project423.DataAccess.dll
+C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.dll
+C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.DataAccess\obj\Debug\net7.0\refint\project423.DataAccess.dll
+C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.DataAccess\obj\Debug\net7.0\project423.DataAccess.pdb

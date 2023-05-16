@@ -47,3 +47,6 @@ C:\Amar\Debug\Apps\1\912\202305160925\project423\project423.API\obj\Debug\net7.0
 C:\Amar\Debug\Apps\1\913\202305161921\project423\project423.API\obj\Debug\net7.0\project423.API.dll
 C:\Amar\Debug\Apps\1\913\202305161921\project423\project423.API\obj\Debug\net7.0\refint\project423.API.dll
 C:\Amar\Debug\Apps\1\913\202305161921\project423\project423.API\obj\Debug\net7.0\project423.API.pdb
+C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.API\obj\Debug\net7.0\project423.API.dll
+C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.API\obj\Debug\net7.0\refint\project423.API.dll
+C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.API\obj\Debug\net7.0\project423.API.pdb

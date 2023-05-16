@@ -1,18 +1,11 @@
-﻿public class UserServiceImpl implements IUserService {
-
-    public void login(String username, String password) {
-        // login code
+﻿public class Project423ServiceImpl implements IProject423Service {
+    @Override
+    public void startProject423() {
+        System.out.println("Starting project 423...");
     }
 
-    public void logout() {
-        // logout code
-    }
-
-    public void register() {
-        // register code
-    }
-
-    public void updateProfile() {
-        // update profile code
+    @Override
+    public void stopProject423() {
+        System.out.println("Stopping project 423...");
     }
 }

@@ -34,3 +34,11 @@ C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.DTO\obj\Debug\net7.0
 C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.dll
 C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.DTO\obj\Debug\net7.0\refint\project423.DTO.dll
 C:\Amar\Debug\Apps\1\915\202305160654\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.pdb
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.dll
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\refint\project423.DTO.dll
+C:\Amar\Debug\Apps\1\916\202305162102\project423\project423.DTO\obj\Debug\net7.0\project423.DTO.pdb
